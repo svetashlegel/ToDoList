@@ -24,3 +24,6 @@ Run migrations using the command `python manage.py migrate`.
 
 To run the project, enter the `python manage.py runserver` command in the terminal.
 Now you can start using the project with http://127.0.0.1:8000/tasks/ link!
+
+Detailed documentation can be found here: http://127.0.0.1:8000/docs/
+or here: http://127.0.0.1:8000/redoc/
